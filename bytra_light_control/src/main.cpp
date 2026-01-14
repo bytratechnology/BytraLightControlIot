@@ -2,8 +2,8 @@
 #include <Firebase_ESP_Client.h>
 
 // ================== WIFI ==================
-#define WIFI_SSID "MyQuyen"
-#define WIFI_PASSWORD "Myquienn4600"
+#define WIFI_SSID "TrungKien"
+#define WIFI_PASSWORD "TrungKien99"
 
 // ================== FIREBASE ==================
 #define DATABASE_URL "bytradevices-default-rtdb.firebaseio.com"
